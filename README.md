@@ -1,7 +1,7 @@
 # Sorting Algorithm Visualization
 
 This code provides a visual representation of various sorting algorithms using the Turtle graphics library. It allows you to observe how different sorting algorithms work and understand their efficiency.
-
+ 
 ## Supported Sorting Algorithms
 
 1. Bubble Sort: `bubble_sort()`
